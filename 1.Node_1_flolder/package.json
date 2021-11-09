@@ -1,0 +1,11 @@
+{
+  "name": "1.node_1_flolder",
+  "version": "1.0.0",
+  "description": "Learing Node Js",
+  "main": "1.Node_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abu Al Shahriar Rifat",
+  "license": "ISC"
+}
